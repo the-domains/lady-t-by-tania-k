@@ -1,28 +1,18 @@
-name: LADY T BY TANIA K
-favicon: null
-layout_spectrum: 0.803493736544624
-typography_spectrum: 0.2776102253701538
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+analytics: {}
 color:
   brandColors:
-    - '#E0FBFC'
-    - '#C2DFE3'
-    - '#9DB4C0'
-    - '#5C6B73'
-    - '#253237'
+    - '#C0C0C0'
+    - '#000000'
+    - '#888088'
+    - '#000000'
+    - '#000000'
   brandStrength: 0.8663797143381089
   lightness: 0.4169288601260632
-  saturation: 0.5456916578114033
   rhythmicContrast: 0.4148646609392017
+  saturation: 0.5456916578114033
+cta: {}
+layout_spectrum: 0.803493736544624
+name: LADY T BY TANIA K
+opengraph: {}
 purpose: []
+typography_spectrum: 0.2776102253701538
